@@ -8,6 +8,7 @@ node_modules
 assets/css
 ```
 6. create gulpfile.js
+7. edit gulpfile.js
 
 ## テーマ
 ### フロントエンドエンジニアに役立つ知識
